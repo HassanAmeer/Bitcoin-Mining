@@ -1,0 +1,81 @@
+[28-May-2022 14:10:35 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/greenhashdemo/config.php on line 3
+[28-May-2022 14:10:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/getsellw/greenhashdemo/index.php on line 18
+[28-May-2022 14:10:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/getsellw/greenhashdemo/index.php on line 19
+[28-May-2022 14:10:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/getsellw/greenhashdemo/index.php on line 22
+[28-May-2022 14:10:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/getsellw/greenhashdemo/index.php on line 23
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 183
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 184
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 216
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 217
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 249
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 250
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 282
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 283
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 315
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 316
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 348
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 349
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 381
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 382
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 414
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 415
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1221
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1222
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1223
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1224
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1232
+[28-May-2022 14:10:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1236
+[28-May-2022 14:10:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/greenhashdemo/config.php on line 3
+[28-May-2022 14:10:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/getsellw/greenhashdemo/index.php on line 18
+[28-May-2022 14:10:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/getsellw/greenhashdemo/index.php on line 19
+[28-May-2022 14:10:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/getsellw/greenhashdemo/index.php on line 22
+[28-May-2022 14:10:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/getsellw/greenhashdemo/index.php on line 23
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 183
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 184
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 216
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 217
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 249
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 250
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 282
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 283
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 315
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 316
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 348
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 349
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 381
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 382
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 414
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 415
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1221
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1222
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1223
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1224
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1232
+[28-May-2022 14:10:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1236
+[28-May-2022 14:10:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/getsellw/greenhashdemo/config.php on line 3
+[28-May-2022 14:10:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/getsellw/greenhashdemo/index.php on line 18
+[28-May-2022 14:10:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/getsellw/greenhashdemo/index.php on line 19
+[28-May-2022 14:10:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/getsellw/greenhashdemo/index.php on line 22
+[28-May-2022 14:10:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/getsellw/greenhashdemo/index.php on line 23
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 183
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 184
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 216
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 217
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 249
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 250
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 282
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 283
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 315
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 316
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 348
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 349
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 381
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 382
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 414
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 415
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1221
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1222
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1223
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1224
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1232
+[28-May-2022 14:10:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/getsellw/greenhashdemo/index.php on line 1236
