@@ -11,7 +11,13 @@ easy to understand all codes every One Can Study These File Codes
 </ul>
 <i> <p style="color:orange;"> if any Problems Can Contact Feel Free </p> </i>
 
-## dark and Light Mode included
+## Admin Panel
+### Two Languages Included :
+<ul>
+<li><b> EngLish </b></li>
+<li><b> Russian </b></li>
+</ul>
+
 every things is in control's by admin
 for demo can watch a video or can be download
 and some demo images are here's
@@ -27,4 +33,86 @@ and some demo images are here's
 <img src='demo 1.jpg'>
 2.
 <img src="demo 2.jpg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
