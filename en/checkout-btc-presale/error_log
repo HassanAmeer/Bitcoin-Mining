@@ -1,0 +1,10 @@
+[28-May-2022 17:25:27 UTC] PHP Notice:  Undefined variable: dayprofit in /home/getsellw/greenhashdemo/en/checkout-btc-presale/buy.php on line 469
+[28-May-2022 17:25:55 UTC] PHP Notice:  Undefined variable: dayprofit in /home/getsellw/greenhashdemo/en/checkout-btc-presale/buy.php on line 469
+[28-May-2022 17:26:03 UTC] PHP Notice:  Undefined index: set2m in /home/getsellw/greenhashdemo/en/checkout-btc-presale/buy.php on line 96
+[28-May-2022 17:26:03 UTC] PHP Notice:  Undefined index: set4m in /home/getsellw/greenhashdemo/en/checkout-btc-presale/buy.php on line 140
+[28-May-2022 17:26:03 UTC] PHP Notice:  Undefined index: set8m in /home/getsellw/greenhashdemo/en/checkout-btc-presale/buy.php on line 184
+[28-May-2022 17:26:13 UTC] PHP Notice:  Undefined index: set2m in /home/getsellw/greenhashdemo/en/checkout-btc-presale/buy.php on line 96
+[28-May-2022 17:26:13 UTC] PHP Notice:  Undefined index: set4m in /home/getsellw/greenhashdemo/en/checkout-btc-presale/buy.php on line 140
+[28-May-2022 17:26:13 UTC] PHP Notice:  Undefined index: set8m in /home/getsellw/greenhashdemo/en/checkout-btc-presale/buy.php on line 184
+[28-May-2022 17:26:34 UTC] PHP Notice:  Undefined variable: dayprofit in /home/getsellw/greenhashdemo/en/checkout-btc-presale/buy.php on line 469
+[28-May-2022 17:26:45 UTC] PHP Notice:  Undefined variable: dayprofit in /home/getsellw/greenhashdemo/en/checkout-btc-presale/buy.php on line 469
