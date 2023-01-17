@@ -17,8 +17,10 @@ for demo can watch a video or can be download
 and some demo images are here's
 
 # download demo video
-<a target="_blank" href="https://www.mediafire.com/file/vybl3rj43krzk8f/km_lottery_720p_30f_20230117_175234.mp4/file"> Download HD Demo Video </a>
-<mark> Video Size: 72 MB </mark>
+<p> Its Deleted <b> But Dontwory </b> Can Search On Youtube Tron Media </p>
+
+<a target="_blank" href="#"> Download Demo Video is Deleted Search Tron Media On Youtube </a>
+<mark> Video Size: 18 MB </mark>
 
 # Screenshots Demo
 1.
