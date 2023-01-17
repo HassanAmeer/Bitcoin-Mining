@@ -4,10 +4,10 @@ easy to understand all codes every One Can Study These File Codes
 <code> BootStrape HTML CSS Js JQ Ajax PHP MySQli </code>
 
 <b> <u> Admin Panel Link </u> </b>
-<i> yourdomainlink/adminpro </i>
+<i> yourdomainlink/cadmin </i>
 <ul>
 <li><b> Admin Name </b>: admin </li>
-<li><b> Admin pass </b>: admin OR pass OR admin7 </li>
+<li><b> Admin pass </b>: admin </li>
 </ul>
 <i> <p style="color:orange;"> if any Problems Can Contact Feel Free </p> </i>
 
